@@ -1,0 +1,16 @@
+{
+  "container": "mx-auto px-4",
+  "text-center": "text-center",
+  "text-lg": "text-lg",
+  "font-bold": "font-bold",
+  "mt-4": "mt-4",
+  "mb-4": "mb-4",
+  "p-4": "p-4",
+  "bg-blue-500": "bg-blue-500",
+  "text-white": "text-white",
+  "rounded": "rounded",
+  "shadow": "shadow",
+  "flex": "flex",
+  "items-center": "items-center",
+  "justify-center": "justify-center"
+}
