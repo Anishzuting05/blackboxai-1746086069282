@@ -1,0 +1,28 @@
+{
+  "name": "tokenops-masterbot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-svg": "^13.4.0",
+    "react-native-tailwindcss": "^1.2.0",
+    "tailwind-rn": "^3.0.0",
+    "@walletconnect/react-native-dapp": "^1.6.6",
+    "ethers": "^5.7.2",
+    "@solana/web3.js": "^1.73.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/runtime": "^7.21.0",
+    "metro-react-native-babel-preset": "^0.76.7"
+  },
+  "babel": {
+    "presets": ["module:metro-react-native-babel-preset"]
+  }
+}
